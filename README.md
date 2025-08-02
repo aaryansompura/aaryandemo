@@ -1,2 +1,3 @@
 # aaryandemo
-My first github repo
+My first git repo
+Author: Aaryan Sompura
